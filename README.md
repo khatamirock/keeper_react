@@ -1,2 +1,2 @@
 # keeper_react
-Created with CodeSandbox
+Simple app to keep notes on Hand!!
